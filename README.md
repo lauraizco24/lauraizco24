@@ -1,7 +1,7 @@
-<div class="text-black bg-green-light mb-2">
+
 # :smile: Welcome to my portfolio 👋
 ![Laura Izquierdo](/images/LauraIzquierdo.png)
-
+<div class="text-black bg-green-light mb-2">
 ### Contact:
 You can contact me on LinkedIn: www.linkedin.com/in/lauraizquierdocobos
 
