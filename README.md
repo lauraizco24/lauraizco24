@@ -1,5 +1,5 @@
 ### Hi there 👋
-![LauraIzquierdo](https://github.com/lauraizco24/images/LauraIzquierdo.png)
+![Laura Izquierdo](https://github.com/lauraizco24/images/LauraIzquierdo.png)
 
 <!--
 **lauraizco24/lauraizco24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
