@@ -16,8 +16,8 @@ Later I will start doing the FrontEnd part of it.:tv:
 
 ## **Skills and technologies that I know**
 
-
-![JAVA](/images/java.png =128x256 )| ![Spring](/images/spring-framework.png = =128x256)
+<img src="/images/java.png" width="50" height="50">
+![JAVA](/images/java.png  )| ![Spring](/images/spring-framework.png)
 ![API](/images/api.png) |![HTML](/images/HTML.png)
 ![CSS](/images/CSS.png) | ![Bootstrap](/images/Bootstrap-Logo.png)
 ![Javascript](/images/Javascript.png) |![React](/images/reactjs.jpg)
