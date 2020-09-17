@@ -16,8 +16,8 @@ Later I will start doing the FrontEnd part of it.:tv:
 
 ## **Skills and technologies that I know**
 
-<img src="/images/java.png" width="100" height="100"> | <img src="/images/spring-framework.png" width="100" height="100">
-![JAVA](/images/java.png  )| ![Spring](/images/spring-framework.png)
+<img src="/images/java.png" width="100" height="100"> &nbsp; &nbsp; &nbsp; <img src="/images/spring-framework.png" width="100" height="100"> </br>
+
 ![API](/images/api.png) |![HTML](/images/HTML.png)
 ![CSS](/images/CSS.png) | ![Bootstrap](/images/Bootstrap-Logo.png)
 ![Javascript](/images/Javascript.png) |![React](/images/reactjs.jpg)
