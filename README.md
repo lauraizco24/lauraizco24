@@ -1,4 +1,4 @@
-{background-color:#fff;font-family:sans-serif; margin-top: 0;}
+
 # :smile: Welcome to my portfolio 👋
 ![Laura Izquierdo](/images/LauraIzquierdo.png)
 
@@ -16,8 +16,8 @@ Later I will start doing the FrontEnd part of it.:tv:
 
 
 ## **Skills and technologies that I know**
-
- <img margin-left:100px src="/images/java.png" width="100" height="100"> &nbsp; &nbsp; &nbsp;<img   margin-right:100px src="/images/spring-framework.png" width="100" height="100"> </br>
+<div align="center">
+ <img  src="/images/java.png" width="100" height="100"> &nbsp; &nbsp; &nbsp;<img src="/images/spring-framework.png" width="100" height="100"> </br>
 
 &nbsp; &nbsp; &nbsp;<img src="/images/api.png" width="100" height="100"> &nbsp; &nbsp; &nbsp; <img src="/images/HTML.png" width="100" height="100"> </br>
 
@@ -29,4 +29,4 @@ Later I will start doing the FrontEnd part of it.:tv:
 
 &nbsp; &nbsp; &nbsp;<img src="/images/mongo.png" width="100" height="100"> &nbsp; &nbsp; &nbsp; <img src="/images/scrum.png" width="100" height="100"> </br>
 
-
+</div>
