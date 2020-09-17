@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-
-
-=======
 # :smile: Welcome to my portfolio 👋
 ![Laura Izquierdo](/images/LauraIzquierdo.png)
->>>>>>> 1be5de91c6b0103d27582aeebb81f8f5d0070c4e
 
 ### Contact:
 You can contact me on LinkedIn: www.linkedin.com/in/lauraizquierdocobos
@@ -15,18 +10,17 @@ I am an Aeronautical Engineer, with experience in the design and operation of UA
 
 I am currently working on:
 
-An API that simulates the Netflix system. Later I will start doing the FrontEnd part of it.
+An API that simulates the Netflix system.:film_strip:
+Later I will start doing the FrontEnd part of it.:tv:
 
 
-<--Here are some ideas to get you started:
+## **Skills and technologies that I know**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
--->
+![JAVA](/images/java.png) | ![Spring](/images/spring-framework.png)
+![API](/images/api.png) |![HTML](/images/HTML.png)
+![CSS](/images/CSS.png) | ![Bootstrap](/images/Bootstrao-Logo.png)
+![Javascript](/images/Javascript.png) |![React](/images/reactjs.png)
+![NPM](/images/npmpng.png) | ![MySQL](/images/mysql.png)
+![Mongo](/images/mongo.png) |![Scrum](/images/scrum.png)
+
