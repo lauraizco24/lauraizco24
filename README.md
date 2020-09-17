@@ -17,10 +17,10 @@ Later I will start doing the FrontEnd part of it.:tv:
 ## **Skills and technologies that I know**
 
 
-![JAVA](/images/java.png) | ![Spring](/images/spring-framework.png)
+![JAVA](/images/java.png |width=20px) | ![Spring](/images/spring-framework.png |width=20px)
 ![API](/images/api.png) |![HTML](/images/HTML.png)
-![CSS](/images/CSS.png) | ![Bootstrap](/images/Bootstrao-Logo.png)
-![Javascript](/images/Javascript.png) |![React](/images/reactjs.png)
+![CSS](/images/CSS.png) | ![Bootstrap](/images/Bootstrap-Logo.png)
+![Javascript](/images/Javascript.png) |![React](/images/reactjs.jpg)
 ![NPM](/images/npmpng.png) | ![MySQL](/images/mysql.png)
 ![Mongo](/images/mongo.png) |![Scrum](/images/scrum.png)
 
