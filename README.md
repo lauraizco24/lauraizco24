@@ -1,7 +1,7 @@
 
 # :smile: Welcome to my portfolio 👋
 ![Laura Izquierdo](/images/LauraIzquierdo.png)
-<div class="text-black bg-green-light mb-2">
+
 ### Contact:
 You can contact me on LinkedIn: www.linkedin.com/in/lauraizquierdocobos
 
@@ -30,4 +30,4 @@ Later I will start doing the FrontEnd part of it.:tv:
 &nbsp; &nbsp; &nbsp;<img src="/images/mongo.png" width="100" height="100"> &nbsp; &nbsp; &nbsp; <img src="/images/scrum.png" width="100" height="100"> </br>
 
 </div>
-</div>
+
