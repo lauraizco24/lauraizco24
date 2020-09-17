@@ -1,4 +1,4 @@
-<div class="text-black bg-purple-light mb-2">
+<div class="text-black bg-green-light mb-2">
 # :smile: Welcome to my portfolio 👋
 ![Laura Izquierdo](/images/LauraIzquierdo.png)
 
