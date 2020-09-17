@@ -1,4 +1,4 @@
-# Welcome to my portfolio 👋
+# :smile: Welcome to my portfolio 👋
 ![Laura Izquierdo](/images/LauraIzquierdo.png)
 
 ### Contact:
