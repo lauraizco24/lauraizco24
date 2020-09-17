@@ -18,9 +18,14 @@ Later I will start doing the FrontEnd part of it.:tv:
 
 <img src="/images/java.png" width="100" height="100"> &nbsp; &nbsp; &nbsp; <img src="/images/spring-framework.png" width="100" height="100"> </br>
 
-![API](/images/api.png) |![HTML](/images/HTML.png)
-![CSS](/images/CSS.png) | ![Bootstrap](/images/Bootstrap-Logo.png)
-![Javascript](/images/Javascript.png) |![React](/images/reactjs.jpg)
-![NPM](/images/npmpng.png) | ![MySQL](/images/mysql.png)
-![Mongo](/images/mongo.png) |![Scrum](/images/scrum.png)
+<img src="/images/api.png" width="100" height="100"> &nbsp; &nbsp; &nbsp; <img src="/images/HTML.png" width="100" height="100"> </br>
+
+<img src="/images/CSS.png" width="100" height="100"> &nbsp; &nbsp; &nbsp; <img src="/images/Bootstrap-Logo.png" width="100" height="100"> </br>
+
+<img src="/images/Javascript.png" width="100" height="100"> &nbsp; &nbsp; &nbsp; <img src="/images/reactjs.jpg" width="100" height="100"> </br>
+
+<img src="/images/npmpng.png" width="100" height="100"> &nbsp; &nbsp; &nbsp; <img src="/images/mysql.png" width="100" height="100"> </br>
+
+<img src="/images/mongo.png" width="100" height="100"> &nbsp; &nbsp; &nbsp; <img src="/images/scrum.png" width="100" height="100"> </br>
+
 
