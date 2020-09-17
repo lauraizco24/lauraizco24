@@ -1,3 +1,4 @@
+.readme {background-color:#fff;font-family:sans-serif; margin-top: 0;}
 # :smile: Welcome to my portfolio 👋
 ![Laura Izquierdo](/images/LauraIzquierdo.png)
 
