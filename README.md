@@ -1,10 +1,14 @@
-### Hi there 👋
+Welcome to my portfolio 👋
 ![Laura Izquierdo](/images/LauraIzquierdo.png)
 
-<!--
-**lauraizco24/lauraizco24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can contact me on LinkedIn: www.linkedin.com/in/lauraizquierdocobos
 
-Here are some ideas to get you started:
+I am currently working on:
+
+An API that simulates the Netflix system. Later I will start doing the FrontEnd part of it.
+
+
+<--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
