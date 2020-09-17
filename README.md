@@ -1,6 +1,7 @@
 # Welcome to my portfolio 👋
 ![Laura Izquierdo](/images/LauraIzquierdo.png)
 
+### Contact:
 You can contact me on LinkedIn: www.linkedin.com/in/lauraizquierdocobos
 
 ## **About Me**
