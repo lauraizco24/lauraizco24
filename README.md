@@ -1,4 +1,4 @@
-
+<div class="text-black bg-purple-light mb-2">
 # :smile: Welcome to my portfolio 👋
 ![Laura Izquierdo](/images/LauraIzquierdo.png)
 
@@ -29,4 +29,5 @@ Later I will start doing the FrontEnd part of it.:tv:
 
 &nbsp; &nbsp; &nbsp;<img src="/images/mongo.png" width="100" height="100"> &nbsp; &nbsp; &nbsp; <img src="/images/scrum.png" width="100" height="100"> </br>
 
+</div>
 </div>
