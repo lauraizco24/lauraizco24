@@ -16,16 +16,16 @@ Later I will start doing the FrontEnd part of it.:tv:
 
 ## **Skills and technologies that I know**
 
-<img src="/images/java.png" width="100" height="100"> &nbsp; &nbsp; &nbsp; <img src="/images/spring-framework.png" width="100" height="100"> </br>
+&nbsp; &nbsp; &nbsp;<img src="/images/java.png" width="100" height="100"> &nbsp; &nbsp; &nbsp; <img src="/images/spring-framework.png" width="100" height="100"> </br>
 
-<img src="/images/api.png" width="100" height="100"> &nbsp; &nbsp; &nbsp; <img src="/images/HTML.png" width="100" height="100"> </br>
+&nbsp; &nbsp; &nbsp;<img src="/images/api.png" width="100" height="100"> &nbsp; &nbsp; &nbsp; <img src="/images/HTML.png" width="100" height="100"> </br>
 
-<img src="/images/CSS.png" width="100" height="100"> &nbsp; &nbsp; &nbsp; <img src="/images/Bootstrap-Logo.png" width="100" height="100"> </br>
+&nbsp; &nbsp; &nbsp;<img src="/images/CSS.png" width="100" height="100"> &nbsp; &nbsp; &nbsp; <img src="/images/Bootstrap-Logo.png" width="100" height="100"> </br>
 
-<img src="/images/Javascript.png" width="100" height="100"> &nbsp; &nbsp; &nbsp; <img src="/images/reactjs.jpg" width="100" height="100"> </br>
+&nbsp; &nbsp; &nbsp;<img src="/images/Javascript.png" width="100" height="100"> &nbsp; &nbsp; &nbsp; <img src="/images/reactjs.jpg" width="100" height="100"> </br>
 
-<img src="/images/npmpng.png" width="100" height="100"> &nbsp; &nbsp; &nbsp; <img src="/images/mysql.png" width="100" height="100"> </br>
+&nbsp; &nbsp; &nbsp;<img src="/images/npmpng.png" width="100" height="100"> &nbsp; &nbsp; &nbsp; <img src="/images/mysql.png" width="100" height="100"> </br>
 
-<img src="/images/mongo.png" width="100" height="100"> &nbsp; &nbsp; &nbsp; <img src="/images/scrum.png" width="100" height="100"> </br>
+&nbsp; &nbsp; &nbsp;<img src="/images/mongo.png" width="100" height="100"> &nbsp; &nbsp; &nbsp; <img src="/images/scrum.png" width="100" height="100"> </br>
 
 
