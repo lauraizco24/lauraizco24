@@ -16,7 +16,7 @@ Later I will start doing the FrontEnd part of it.:tv:
 
 ## **Skills and technologies that I know**
 
-&nbsp; &nbsp; &nbsp;<img align="left" src="/images/java.png" width="100" height="100"> &nbsp; &nbsp; &nbsp;<img align="right" src="/images/spring-framework.png" width="100" height="100"> </br>
+ <img margin-left:10px src="/images/java.png" width="100" height="100"> &nbsp; &nbsp; &nbsp;<img   margin-right:10px src="/images/spring-framework.png" width="100" height="100"> </br>
 
 &nbsp; &nbsp; &nbsp;<img src="/images/api.png" width="100" height="100"> &nbsp; &nbsp; &nbsp; <img src="/images/HTML.png" width="100" height="100"> </br>
 
